@@ -171,4 +171,5 @@ main{
     background-size: cover;
     background-position: center;
     flex: 1;
+    background-color: var(--medium-grey);
 }
